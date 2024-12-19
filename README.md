@@ -1,4 +1,4 @@
-# Crowd funding
+# Per funding
 
 https://user-images.githubusercontent.com/55044734/164529677-27af29f2-96d6-4ce6-bb61-c1f0c63a3beb.mp4
 
