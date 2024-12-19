@@ -1,0 +1,24 @@
+BẮT ĐẦU: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+B2: npx hardhat node(npm install --save-dev hardhat)
+B3: npx hardhat run scripts/deploy.js --network localhost
+B4: 
+    cd client
+    npm run dev
+
+
+npm install next react react-dom
+npm install moment
+npm install web3
+npm install react-toastify
+
+
+
+Ngôn ngữ dự sử dụng:
+1. Next.js (frontend)
+2. solidity (viết hợp đồng smart contract)
+3. tailwind css (giao diện)
+4. ether.js
+5. Chai (test js)
+6. react-toastify (thông báo)
+7. hardhat (môi trường phát triển Ethereum)
+8. Redux (để quản lý và tập trung trạng thái ứng dụng)
